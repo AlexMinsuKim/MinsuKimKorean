@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MinsuKimKorean
-- 👀 I’m interested in making a game recently. 
-- 🌱 I’m currently learning Unity Programm for making simple game. But it is really hard for me to make game because I don't study C# for coding. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just send me an email;rlaasltnt99@naver.com or alstnrla99@gmail.com 
+- 👋 Hi, I’m @MinsuKim who are studying at KyungHee University. 
+- 👀 I’m majoring in Global-Communication and Global Culture and Technology Convergence. 
+- 🌱 I’m currently learning Unreal Program based on BluePrint and making VR contents(not programming) for students education. 
+- 💞️ I’d like to make universe for VR,XR,Metaverse contents based on creative thinking in the future. 
+- 📫 If you want send me an email, please send me an email through this email > "rlaasltnt99@khu.ac.kr" or "alstnrla99@gamil.com
 
 <!---
 MinsuKimKorean/MinsuKimKorean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
